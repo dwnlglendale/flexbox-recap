@@ -6,4 +6,4 @@ And its been a successful one as you can see from this repo
 * Modifying classes with CSS to get required display for your site
 * Rows and Columns modification as well
 
-<img src="flexbox.png" width="256"/>
+<img src="flexbox.png" width="100%"/>S
