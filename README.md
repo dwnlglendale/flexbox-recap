@@ -5,3 +5,5 @@ And its been a successful one as you can see from this repo
 * I learnt how to use flexboxes
 * Modifying classes with CSS to get required display for your site
 * Rows and Columns modification as well
+
+<img src="flexbox.jpg" width="256"/>
